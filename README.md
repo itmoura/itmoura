@@ -11,10 +11,10 @@
 ### 🤖 Most Used Technologies
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="50" height="50"/> 
   </a> 
   <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter" width="60" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
