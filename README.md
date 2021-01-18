@@ -11,7 +11,7 @@
 ### 🤖 Most Used Technologies
 <p align="left"> 
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java" width="30" height="40"/> 
   </a> 
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter" width="40" height="40"/> 
