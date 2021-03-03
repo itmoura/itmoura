@@ -4,7 +4,7 @@
 ---
 ### About
 * 🏫 I'm studying on **[Inatel](https://inatel.br/home/)**
-* 💻 I’m Java Developer
+* 💻 I’m Java Developer - **[INFOPRICE](https://www.infoprice.co/)**
 
 ---
 
