@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Arquivos</title>
+
+</head>
+
+<body>
+    <input type="text" id="clientId">
+    <input type="text" id="email">
+
+    <p>Preço Regular</p>
+    <input type="file" id="fileRegular">
+
+    <p>Vendas</p>
+    <input type="file" id="fileVendas">
+
+    <button id="btnEnviar">Enviar</button>
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+
+    $(function () {
+
+        var form;
+        $('#fileRegular').change(function (event) {
+            var clientId = $("#clientId").val();
+            var email = $("#email").val();
+            form = new FormData();
+            form.append('file', event.target.files[0]);
+            form.append('clientId', clientId);
+            form.append('email', email);
+        });
+
+        $('#btnEnviar').click(function () {
+            $.ajax({
+                url: 'https://dev-api.roudini.data.infopriceti.com.br/v1/client/prices',
+                data: form,
+                processData: false,
+                contentType: "application/json",
+                type: 'POST',
+                success: function (data) {
+                    if (data) {
+                        alert("Deu bom" + clientId + " foi enviado");
+                    } else {
+                        alert("Deu ruim");
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+</html>
