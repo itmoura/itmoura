@@ -3,8 +3,8 @@
 
 ---
 ### About
-* 🏫 I'm studying on **[Inatel](https://inatel.br/home/)**
-* 💻 I’m Full Stack Developer - **[CONQUER](https://conquer.plus/)**
+* 🏫 I'm engineer software formad by on **[Inatel](https://inatel.br/home/)**
+* 💻 I’m Back-end Java Developer **[NTT DATA](https://br.nttdata.com)** where I provide consultancy for **[PAN bank](https://www.bancopan.com.br)**
 
 ---
 
@@ -36,6 +36,9 @@
   </a>  
   <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com/pt/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> 
   </a>
 </p>
 
