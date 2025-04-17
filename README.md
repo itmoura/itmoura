@@ -4,7 +4,7 @@
 ---
 ### About
 * 🏫 I'm engineer software formad by on **[Inatel](https://inatel.br/home/)**
-* 💻 I’m Back-end Java Developer **[NTT DATA](https://br.nttdata.com)** where I provide consultancy for **[PAN bank](https://www.bancopan.com.br)**
+* 💻 I’m Full Satck Java Developer **[SmartEnvios](https://smartenvios.com/)**
 
 ---
 
