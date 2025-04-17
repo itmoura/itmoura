@@ -4,7 +4,7 @@
 ---
 ### About
 * 🏫 I'm engineer software formad by on **[Inatel](https://inatel.br/home/)**
-* 💻 I’m Full Satck Java Developer **[SmartEnvios](https://smartenvios.com/)**
+* 💻 I’m Full Stack Developer **[SmartEnvios](https://smartenvios.com/)**
 
 ---
 
