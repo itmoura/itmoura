@@ -1,5 +1,5 @@
 ## Hello 👋, I'm Ítalo Moura
-<a href="https://linkedin.com/in/italo-moura/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/itmoura/" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/itmoura/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/itmoura/" height="20" width="30" /></a>
 
 ---
 ### About
